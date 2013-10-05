@@ -40,6 +40,7 @@ for i in (0..3)
 	end
 end
 
+# Imprimimos la matriz A
 puts "\n Matriz A:\n"
 for i in (0...4)
 	print " "
@@ -50,6 +51,7 @@ for i in (0...4)
 	puts "\n"
 end
 
+# Imprimimos la matriz B
 puts "\n Matriz B:\n"
 for i in (0...4)
 	print " "
@@ -60,6 +62,7 @@ for i in (0...4)
 	puts "\n"
 end
 
+# Imprimimos la matriz S (suma de A y B)
 puts "\n Suma:\n"
 for i in (0...4)
 	print " "
@@ -70,6 +73,7 @@ for i in (0...4)
 	puts "\n"
 end
 
+# Imprimimos la matriz M (multiplicacion de A y B)
 puts "\n Multiplicacion:\n"
 for i in (0...4)
 	print " "
