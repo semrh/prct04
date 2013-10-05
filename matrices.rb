@@ -2,7 +2,7 @@
 
 require 'matrix'
 
-puts "Suma y multiplicación de dos matrices cuadradas\n"
+puts "Suma y multiplicacion de dos matrices cuadradas\n"
 
 
 
