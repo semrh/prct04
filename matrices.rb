@@ -30,8 +30,8 @@ for i in (0...4)
 end
 
 # Suma de matrices
-for i in (0..3) 
-	for j in (0...4)
+for i in (0...4) 
+	for j in (0..3)
 		temp = 0
 		for k in (0..3)
 			temp += a[i][k] * b[k][j]
